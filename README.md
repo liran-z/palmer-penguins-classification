@@ -1,8 +1,8 @@
 # Palmer Penguins Species Classification
 
-A machine learning group project classifying penguin species using physical measurements from the Palmer Penguin Dataset by Allison Horst, Alison Hill, and Kristen Gorman
+A machine learning group project classifying penguin species using physical measurements from the Palmer Penguin Dataset by Allison Horst, Alison Hill, and Kristen Gorman.
 
-*Collaborators: Liran Zhang & Ryan Vock*
+*Project Collaborators: Liran Zhang & Ryan Vock*
 
 ## Project Overview
 
